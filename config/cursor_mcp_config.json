@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "mcpServers": {
+    "mcp-router": {
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/mcp-router/src/mcp_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
+

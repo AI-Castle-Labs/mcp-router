@@ -1,0 +1,17 @@
+# MCP Router Dependencies
+
+# Core dependencies
+python-dotenv>=1.0.0
+
+# OpenAI SDK (optional, for OpenAI models)
+openai>=1.0.0
+
+# Anthropic SDK (optional, for Claude models)
+anthropic>=0.34.0
+
+# Logging and utilities
+typing-extensions>=4.0.0
+
+# MCP SDK for Cursor integration
+mcp>=0.1.0
+
